@@ -117,11 +117,12 @@ body {
 	align-items: center;
 }
 
-.
+.div-1,
+.div-2,
 .div-3 {
 	/*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
 	color: whitesmoke;
-	line-height: 1.5em;git 
+	line-height: 1.5em;
 	font-size: 1rem;
 	background-color: rgb(37, 35, 35);
 	height: auto;
